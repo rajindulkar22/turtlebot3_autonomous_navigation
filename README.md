@@ -19,3 +19,12 @@ ros2 run nav2_map_server map_saver_cli -f maps/my_maps
 colcon build
 source install/setup.bash
 ros2 run turtlebot3_point_nav auto_navigator(to run the script)
+![image](https://github.com/user-attachments/assets/5bc56c44-4530-442f-a2d4-185118720b6f)
+![image](https://github.com/user-attachments/assets/72649ff9-3cc9-4778-9110-f08bfef1d8db)
+![image](https://github.com/user-attachments/assets/5880823d-8f0f-4591-bd33-42575874d00b)
+![image](https://github.com/user-attachments/assets/0e5218a8-a694-4c34-88d5-abab171aac8f)
+
+
+
+
+
