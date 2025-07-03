@@ -4,8 +4,8 @@ Launch the Turtlebot3 robot in gazebo simulation using ROS2
 #used
 #ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 #task 2
-control the robot by sending velocity command
-ros2 topic pub /cmd_vel geometry_msgs/msg/Twist \
+#control the robot by sending velocity command#
+#ros2 topic pub /cmd_vel geometry_msgs/msg/Twist \
 "{linear: {x: 0.2, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.3}}" -r 10
 #task 3
 #perform slam and create a map of the simulation
